@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.682277ccaa5c10436a80ac4a6b72f36e.js"
+  "/precache-manifest.b41dc4b70b800b46d00587c1ce79bbbd.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "ejonathanv"});
